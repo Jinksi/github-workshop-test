@@ -1,2 +1,2 @@
-value <- "Hello Octopus"
+value <- "Hello GitHub"
 print(value)
