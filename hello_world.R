@@ -1,2 +1,2 @@
-value = "Hello World!"
+value <- "Hello Octopus"
 print(value)
